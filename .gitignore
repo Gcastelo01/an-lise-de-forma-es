@@ -1,2 +1,8 @@
+#directories
 .vscode/
 python-venv/
+.ipynb_checkpoints/
+
+
+# File Types:
+*.pdf
